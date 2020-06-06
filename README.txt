@@ -1,4 +1,4 @@
-CARA PAKAI
+CARA MENGGUNAKAN
 1. Ekstrak file ini ke dalam folder htdocs
-2. Jalankan Apcahe
-3. buka localhost/sda-ayu
+2. Lalu Jalankan Apcahe
+3. Selanjutnya buka localhost/projek
