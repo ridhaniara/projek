@@ -39,7 +39,7 @@
 	  <p class="lead">Website yang menampilkan informasi editor pada artikel situs detik.com beserta artikel yang telah diedit<br>Data yang diperoleh berasal dari struktur data hash yang diintegrasi dengan Web</p>
 	  <hr class="my-4">
 	  <p>Website ini dibuat untuk memenuhi tugas Projek Lab Matakuliah Struktur Data dan Algoritma Program Studi Informatika Unsyiah</p>
-	  <a class="btn btn-success btn-lg" href="https://github.com/ayumaulina2106/implemented_java_hash_structure_to_web" role="button"><i class="fab fa-github"></i> Kunjungi Github</a>
+	  <a class="btn btn-success btn-lg" href="https://github.com/ridhaniara/projek" role="button"><i class="fab fa-github"></i> Kunjungi Github</a>
 	</div>
 	<!-- End Jumbotron -->
 
